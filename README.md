@@ -27,4 +27,4 @@ The dataset available from the company contains the following information:
 ✓ Compliance Status: This is an indication of whether or not a drug is compliant with regulation. Can be either of two things ‘Compliant’ or ‘Non-compliant’.
 
 
-Data was gotten from Amdario, https://www.amdari.io/
+#### Data was gotten from Amdario: https://www.amdari.io/
