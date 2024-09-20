@@ -1,4 +1,5 @@
-# Pharmaceutical-Supply-Chain-Inventory-Optimization--A Data Analysis Project
+# Pharmaceutical-Supply-Chain-Inventory-Optimization
+#### A Data Analysis Project
 This project focuses on building a model to optimize Inventory
 
 
